@@ -6,19 +6,19 @@
 {
 	"acme_challenge_cname_target": null,
 	"certificate": {
-		"id": "cert_2pkP2xBKqpuK0tSiJa1Dc17JiGz",
-		"uri": "https://api.ngrok.com/tls_certificates/cert_2pkP2xBKqpuK0tSiJa1Dc17JiGz"
+		"id": "cert_2pysIavoINWjasEOzShw4ukoPCh",
+		"uri": "https://api.ngrok.com/tls_certificates/cert_2pysIavoINWjasEOzShw4ukoPCh"
 	},
 	"certificate_management_policy": null,
 	"certificate_management_status": null,
-	"cname_target": "2udamkamcl8pjmrff.3bwhvoakpkza4tnvn.local-ngrok-cname.com",
-	"created_at": "2024-12-04T10:08:16Z",
+	"cname_target": "2udamkamcl8pjmrff.5hrlfzkven1lyksta.local-ngrok-cname.com",
+	"created_at": "2024-12-09T13:06:10Z",
 	"domain": "myapp.mydomain.com",
 	"error_redirect_url": null,
 	"http_endpoint_configuration": null,
 	"https_endpoint_configuration": null,
-	"id": "rd_2pkP2vd5TtRU7n70wKJE1kdM74l",
+	"id": "rd_2pysIZm1fyPerMuLawu8LRUNcLD",
 	"region": "",
-	"uri": "https://api.ngrok.com/reserved_domains/rd_2pkP2vd5TtRU7n70wKJE1kdM74l"
+	"uri": "https://api.ngrok.com/reserved_domains/rd_2pysIZm1fyPerMuLawu8LRUNcLD"
 }
 ```
